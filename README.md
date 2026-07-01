@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0001-two-sum) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0001-two-sum) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
