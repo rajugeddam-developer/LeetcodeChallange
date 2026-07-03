@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0001-two-sum) |
+| [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
