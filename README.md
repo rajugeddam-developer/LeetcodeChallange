@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
