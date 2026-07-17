@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
+| [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
+| [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
