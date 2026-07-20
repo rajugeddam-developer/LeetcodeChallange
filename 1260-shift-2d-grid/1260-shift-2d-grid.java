@@ -1,37 +1,33 @@
-import java.util.ArrayList;
-import java.util.List;
-
+import java.util.AbstractList;
 class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int total = m * n;
-        
-        // Optimize k to handle cases where k >= total elements
-        k = k % total;
-        
-        // Initialize the outer result list with empty lists for each row
-        List<List<Integer>> result = new ArrayList<>();
-        for (int i = 0; i < m; i++) {
-            result.add(new ArrayList<>(n));
-            for (int j = 0; j < n; j++) {
-                result.get(i).add(0); // Fill with placeholder values
+        final int n = grid.length;
+        final int m = grid[0].length;
+        final int total = n * m;
+        final int shift = k % total;
+
+        return new AbstractList<List<Integer>>() {
+            @Override
+            public List<Integer> get(int i) {
+                return new AbstractList<Integer>() {
+                    @Override
+                    public Integer get(int j) {
+                        int target1D = i * m + j;
+                        int source1D = (target1D + total - shift) % total;
+                        return grid[source1D / m][source1D % m];
+                    }
+
+                    @Override
+                    public int size() {
+                        return m;
+                    }
+                };
             }
-        }
-        
-        // Directly place each element into its final shifted position
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                int old1D = i * n + j;
-                int new1D = (old1D + k) % total;
-                
-                int newRow = new1D / n;
-                int newCol = new1D % n;
-                
-                result.get(newRow).set(newCol, grid[i][j]);
+
+            @Override
+            public int size() {
+                return n;
             }
-        }
-        
-        return result;
+        };
     }
 }
