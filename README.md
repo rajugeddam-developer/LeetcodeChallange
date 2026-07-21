@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
