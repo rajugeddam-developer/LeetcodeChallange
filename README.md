@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
