@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union-Find
 |  |
