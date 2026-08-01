@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
