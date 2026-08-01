@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union-Find
 |  |
@@ -240,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0011-container-with-most-water) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
