@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -306,10 +308,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
