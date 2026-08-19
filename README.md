@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0264-ugly-number-ii) |
@@ -331,5 +333,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
