@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
