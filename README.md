@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
@@ -273,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -356,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
