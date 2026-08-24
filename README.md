@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union-Find
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -334,15 +338,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
