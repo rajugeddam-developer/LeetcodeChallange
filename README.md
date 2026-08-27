@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
