@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
