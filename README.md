@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
