@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1672-richest-customer-wealth) |
