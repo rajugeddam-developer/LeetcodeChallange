@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1952-three-divisors) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3903-smallest-stable-index-i) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
