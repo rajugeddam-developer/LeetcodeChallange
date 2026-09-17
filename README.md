@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1872-stone-game-viii) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
