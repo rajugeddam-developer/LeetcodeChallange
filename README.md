@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
