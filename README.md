@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2295-replace-elements-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
