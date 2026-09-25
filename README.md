@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1927-sum-game) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -452,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
 | ------- |
