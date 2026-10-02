@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0242-valid-anagram) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajugeddam-developer/LeetcodeChallange/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
