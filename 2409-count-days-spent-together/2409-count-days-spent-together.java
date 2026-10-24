@@ -1,0 +1,33 @@
+class Solution {
+    public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
+        int aliceArrival = calculateDayOfYear(arriveAlice);
+        int aliceLeave = calculateDayOfYear(leaveAlice);
+        int bobArrival = calculateDayOfYear(arriveBob);
+        int bobLeave = calculateDayOfYear(leaveBob);
+
+        // Find the overlapping range
+        int start = Math.max(aliceArrival, bobArrival);
+        int end = Math.min(aliceLeave, bobLeave);
+
+        // If start <= end, calculate the number of overlapping days
+        if (start <= end) {
+            return end - start + 1;
+        }
+        
+        return 0;
+    }
+
+    private int calculateDayOfYear(String date) {
+        int[] daysInMonths = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+        int month = Integer.parseInt(date.substring(0, 2));
+        int day = Integer.parseInt(date.substring(3, 5));
+        
+        int dayOfYear = 0;
+        for (int i = 0; i < month - 1; i++) {
+            dayOfYear += daysInMonths[i];
+        }
+        dayOfYear += day;
+        
+        return dayOfYear;
+    }
+}
